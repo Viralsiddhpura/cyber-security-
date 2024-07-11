@@ -1,0 +1,72 @@
+Cyber Security
+
+Assignment
+
+Module 1 CS- Introduction
+
+ 1 what is meaning of cyber security  ?
+
+Cyber security definition
+
+Cyber security is the application of technologies, processes, and controls to protect systems, networks, programs, devices and data from cyber attacks.
+
+It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks, and technologies.
+
+2.what are the main objectives of cyber security?
+
+The goal of cyber security is to ensure secure storage, control access, and prevent unauthorized processing, transfer, or deletion of data. It safeguards the confidentiality, integrity, and availability of information.
+
+A number of cyber security measures are put in place to protect networks and computer hardware from unwanted threats and damages. Organizations draft security goals and policies based on the cyber security standards they are required to uphold.
+
+CIA triad stands upright on three pillars–Confidentiality, Integrity, and Availability. People, Processes, and Technology come together to attain these objectives of cyber security and ensure effective security systems.
+
+3.What is offensive and defensive in cyber security?
+
+* offensive security :
+
+Offensive Security refers to the practice of actively attacking and exploiting computer systems and networks to test their defences and identify vulnerabilities. 
+
+Offensive Security gets often used by companies and organizations to evaluate the effectiveness of their security measures, as well as by governments and military organizations to gather intelligence and disrupt the activities of adversaries.
+
+* defensive security :
+
+Defensive Security, on the other hand, refers to protecting computer systems and networks from attack by identifying and mitigating vulnerabilities and implementing measures to prevent or detect unauthorized access or activity. 
+
+Companies and organizations use Defensive Security to safeguard their systems and data from cyber threats. Even government and military organizations use the Defensive Security approach to defend against cyber attacks from adversaries.
+
+4.what is cyberspace and low .
+
+The best way to define Cyberspace is the virtual and dynamic space created by the machine clones.
+
+
+According to the Cyberspace definition, it is a web consisting of consumer computers, electronics and communication networks by which the consumer is connected to the world. 
+
+In order to ensure that humans do not misuse Cyber technologies, Cyber laws are generated. The overall idea of Cyberlaw is to stop any person from violating the rights of other persons in Cyberspace. Any kind of violation of Cyber rights is considered to be a Cyberspace violation and is deemed punishable under Cyber Laws.  
+
+
+It is important to note that since Cyberspace does not belong to the physical world, the physical laws do not apply to Cyberspace crime. A separate set of Cyber laws are formulated by the government to provide Cybersecurity to Cyber users. Such Cyber laws are needed to monitor and prevent any immoral or illegal activities of humans. Some
+
+
+of the common Cyberspace violation activities include hacking, theft, money laundering, terrorism, piracy, etc. Hackers can get hold of any internet account through the Domain Name Server (DNS), phishing, IP address, etc. to get entry into the computer system of any person and steal the data, or introduce computer bugs and render the system ineffective. 
+
+Cyber laws encompass all the legal issues related to the communicative, distributive and transactional aspects of network-related information devices and technologies. It is different from the Property Law or any other law. Unlike property law, it is not so distinct; it is broader since it covers several areas of laws and regulations. It encapsulates the statutory, legal and constitutional provisions related to computers and the internet. Cyber laws are related to individuals and institutions that 
+
+Play a crucial role in providing Cyberspace access to people
+
+Generates software and/or hardware to allow people with entry into Cyberspace, and
+
+Make use of their computer system to gain entry into Cyberspace.
+
+5. What is cyber welfare? 
+
+
+Cyber warfare is usually defined as a cyber attack or series of attacks that target a country. It has the potential to wreak havoc on government and civilian infrastructure and disrupt critical systems, resulting in damage to the state and even loss of life.
+
+There is, however, a debate among cyber security experts as to what kind of activity constitutes cyber warfare. The US Department of Defense (DoD) recognizes the threat to national security posed by the malicious use of the Internet but doesn’t provide a clearer definition of cyber warfare. Some consider cyber warfare to be a cyber attack that can result in death.
+
+Cyber warfare typically involves a nation-state perpetrating cyber attacks on another, but in some cases, the attacks are carried out by terrorist organizations or non-state actors seeking to further the goal of a hostile nation. There are several examples of alleged cyber warfare in recent history, but there is no universal, formal, definition for how a cyber attack may constitute an act of war.
+
+
+
+
+
